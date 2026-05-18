@@ -37,8 +37,8 @@ pip install instagrapi requests
 
 Se você estiver usando o Git:
 ```bash
-git clone https://github.com/SEU_USUARIO/NOME_DO_REPOSITORIO.git
-cd NOME_DO_REPOSITORIO
+git clone https://github.com/kauandasilvamd3/instagram-unfollower-bot.git
+cd instagram-unfollower-bot
 ```
 
 Ou apenas baixe o arquivo `ig_unfollower.py` diretamente para sua pasta.
