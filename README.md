@@ -26,7 +26,7 @@ pkg install python python-pip git -y
 1. Clonar o repositório
 
 git clone https://github.com/kauandasilvamd3/instagram-unfollower-bot.git
-cd ig_unfollower
+cd instagram-unfollower-bot
 
 
 ---
