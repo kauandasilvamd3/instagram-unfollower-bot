@@ -14,13 +14,6 @@ Ferramenta de automação para deixar de seguir perfis no Instagram de forma seg
    sudo apt update && sudo apt install python3 python3-pip -y
    ```
 
-### No Termux (Android)
-1. Instale o Python e as dependências do sistema:
-   ```bash
-   pkg update && pkg upgrade
-   pkg install python python-pip git -y
-   ```
-
 ---
 
 ## ⚙️ Instalação das Dependências
